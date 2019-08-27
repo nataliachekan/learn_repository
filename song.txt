@@ -11,5 +11,3 @@ Huh
 Huh
 Falling in and out of love
 In love, in love
-
-some information to delete in the next commit
